@@ -10,6 +10,7 @@
 #define PUSH_BUTTON_INTERFACE_H_
 
 #include "../../MCAL/DIO/Dio_interface.h"
+#include "../../MCAL/EXT_INT/EXT_INT_interface.h"
 
 
 void Push_Button_Init(u8 copy_u8PORTNAME,u8 copy_u8PINNUMBER);
