@@ -8,7 +8,7 @@
 #ifndef APP_H_
 #define APP_H_
 
-#include "../MCAL/EXT_INT/EXT_INT_interface.h"
+
 #include "../ECUAL/LED/LED_interface.h"
 #include "../ECUAL/PUSH_BUTTON/PUSH_BUTTON_INTERFACE.h"
 
